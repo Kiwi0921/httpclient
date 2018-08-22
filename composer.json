@@ -1,0 +1,8 @@
+{
+     "name":"Kiwi0921/httpclient",
+     "autoload":{
+        "psr-4": {"kiwi\\httpclient\\": "src/"}     
+     }
+
+}
+
